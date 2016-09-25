@@ -1,3 +1,8 @@
+To run
+ mvn clean compile exec:java
+Then go to
+ http://localhost:4567/index/
+
 # spark-basic-structure
 This is an axample of one possible way of structuring a Spark application
 
